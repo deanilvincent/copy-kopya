@@ -1,4 +1,5 @@
 function copy(obj) {
+  if (obj === null) return undefined;
   /**
    * Copy properties from the original object to the clone
    * @param {Object|Function} clone The cloned object
