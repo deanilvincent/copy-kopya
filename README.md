@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/dv-github-repos/copy-kopya/_apis/build/status/deanilvincent.copy-kopya?branchName=main)](https://dev.azure.com/dv-github-repos/copy-kopya/_build/latest?definitionId=10&branchName=main)
+
 # Overview
 
 Create an immutable clone or copy of data. This could be an array, object, map, set or function.
