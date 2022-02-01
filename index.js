@@ -50,7 +50,7 @@ function copy(obj) {
    */
   function cloneSet() {
     let clone = new Set();
-    for (let item of set) {
+    for (let item of obj) {
       clone.add(copy(item));
     }
     return clone;

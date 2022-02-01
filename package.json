@@ -1,7 +1,7 @@
 {
   "name": "copy-kopya",
   "version": "1.0.0",
-  "description": "Create an immutable clone or copy of data. This could be an array, object, map, set, etc.",
+  "description": "Create an immutable clone or copy of data. This could be an array, object, map, set or function.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -21,6 +21,18 @@
     "map",
     "clone",
     "set",
+    "copy immutable",
+    "clone immutable",
+    "copy object",
+    "copy array",
+    "copy map",
+    "copy set",
+    "copy function",
+    "clone object",
+    "clone array",
+    "clone map",
+    "clone set",
+    "clone function",
     "copy-immutable",
     "clone-immutable",
     "copy-object",
